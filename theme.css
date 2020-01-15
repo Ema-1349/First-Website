@@ -1,0 +1,70 @@
+body  {
+	font-family:  URW Chancery L, cursive, bold ;
+	background-color: #ffd2f9 ;
+	background-image: url(Pictures/galaxy.jpg);
+	background-attachment: fixed;
+	background-repeat: none;
+	background-size: cover
+}
+
+h1{
+	font-family: URW Chancery L, cursive, bold ;
+	color: #6A0DAD ; 
+	text-align: center ;
+	background-color: #ce9ae5 ;
+	font-size: 28pt ;
+}
+
+p  {
+	font-family: URW Chancery L, cursive ;
+	line-height: 1.8em ;
+	text-indent: 30px ;
+	margin-bottom: 40px ;	
+}
+
+h2  {
+	font-family: URW Chancery L, cursive, bold ;
+	color: #6A0DAD ; 
+	text-align: center ;
+	background-color: #ce9ae5 ;
+	font-size: 20pt ;
+}
+
+div  {
+	background-color: rgba(255,255,255,0.5) ;
+	width: 1000px ;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 40px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	border: 5px solid black ;
+}
+
+a:link {
+
+}
+
+a:visited {
+	
+}
+
+a:hover {
+	
+}
+
+a:active {
+	
+}
+
+img {
+		border: 10px sold white;
+		box-shadow:20px 20px 40px black
+}
+
+iframe {
+	border: 10px solid white;
+	box-shadow: 20px 20px 30px black ;
+	margin-left: 200px;
+	margin-right: 200px ;
+}
