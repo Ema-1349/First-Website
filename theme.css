@@ -1,16 +1,8 @@
-body  {
-	font-family:  URW Chancery L, cursive, bold ;
-	background-color: #ffd2f9 ;
-	background-image: url(Pictures/galaxy.jpg);
-	background-attachment: fixed;
-	background-repeat: none;
-	background-size: cover
-}
-
 h1{
 	font-family: URW Chancery L, cursive, bold ;
-	color: #6A0DAD ; 
+	color: #0075D7 ; 
 	text-align: center ;
+	text-shadow: 5px 5px 15px white ;
 	background-color: #ce9ae5 ;
 	font-size: 28pt ;
 }
@@ -23,8 +15,9 @@ p  {
 }
 
 h2  {
+	text-shadow: 5px 5px 15px white ;
 	font-family: URW Chancery L, cursive, bold ;
-	color: #6A0DAD ; 
+	color: #0075D7 ; 
 	text-align: center ;
 	background-color: #ce9ae5 ;
 	font-size: 20pt ;
