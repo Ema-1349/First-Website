@@ -1,58 +1,73 @@
-h1{
-	font-family: URW Chancery L, cursive, bold ;
-	color: #0075D7 ; 
-	text-align: center ;
-	text-shadow: 5px 5px 15px white ;
-	background-color: #ce9ae5 ;
-	font-size: 28pt ;
+a:active {
+	color: white ;
 }
 
-p  {
-	font-family: URW Chancery L, cursive ;
-	line-height: 1.8em ;
-	text-indent: 30px ;
-	margin-bottom: 40px ;	
+a:hover {
+	background-color: white ;
+	color:  #54009c;
 }
 
-h2  {
-	text-shadow: 5px 5px 15px white ;
-	font-family: URW Chancery L, cursive, bold ;
-	color: #0075D7 ; 
-	text-align: center ;
-	background-color: #ce9ae5 ;
-	font-size: 20pt ;
+a:link {
+ color:  #d197f2 ;
+}
+
+a:visited {
+  color: #967BB6 ;
+}
+
+body {
+font-family: URW Chancery L, cursive, bold ;
+background-color: #5e28e5;
+background-image: url(images/galaxy.jpg);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+background-position:center ;
 }
 
 div  {
-	background-color: rgba(255,255,255,0.5) ;
+	background-color: rgba(255,255,255, 0.6) ;
 	width: 1000px ;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 40px;
 	padding-top: 30px;
 	padding-bottom: 30px;
-	border: 5px solid black ;
+	border: 30px #ffffff;
 }
 
-a:link {
-
+h1 {
+	font-family: URW Chancery L, cursive, bold ;
+	color: #0075D7 ;
+	text-align: center;
+	background-color: rgba(206,154,229,0.8)
+;
+	font-size: 28pt;
+	text-shadow: 5px 5px 15px white ;
+}
+h2  {
+	text-shadow: 5px 5px 15px white ;
+	font-family: URW Chancery L, cursive, bold ;
+	color: #0075D7 ; 
+	text-align: center ;
+	background-color: rgba(206,154,229,0.7) ;
+	font-size: 20pt ;
 }
 
-a:visited {
-	
-}
-
-a:hover {
-	
-}
-
-a:active {
-	
+p {
+	font-family: URW Chancery L, cursive ;
+	line-height: 1.8em ;
+	text-indent: 30px ;
+	margin-bottom: 40px ;	
 }
 
 img {
-		border: 10px sold white;
-		box-shadow:20px 20px 40px black
+	width: 700px ;
+	height: 400px ;
+	border: 10px sold white;
+	box-shadow:20px 20px 40px black ;
+	margin-left: 150px;
+	margin-right:150px;
 }
 
 iframe {
@@ -61,3 +76,4 @@ iframe {
 	margin-left: 200px;
 	margin-right: 200px ;
 }
+ 
